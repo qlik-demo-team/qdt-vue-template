@@ -1,6 +1,6 @@
 <template>
    <div class="row">
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Embed Objects</div>
           <div class="card-body">
@@ -12,7 +12,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Create Session Objects</div>
           <div class="card-body">
@@ -24,7 +24,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Current Selections Toolbar</div>
           <div class="card-body">
@@ -36,7 +36,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Custom Selections Toolbar</div>
           <div class="card-body">
@@ -48,7 +48,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Search</div>
           <div class="card-body">
@@ -60,7 +60,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Horizontal Barchart</div>
           <div class="card-body">
@@ -72,7 +72,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Vertical Barchart</div>
           <div class="card-body">
@@ -84,7 +84,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Pie Chart</div>
           <div class="card-body">
@@ -96,7 +96,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Scatterplot</div>
           <div class="card-body">
@@ -108,7 +108,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Scatterplot - images</div>
           <div class="card-body">
@@ -120,7 +120,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Line Chart</div>
           <div class="card-body">
@@ -132,7 +132,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Multi Line Chart</div>
           <div class="card-body">
@@ -144,7 +144,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Combo Line Barchart</div>
           <div class="card-body">
@@ -156,7 +156,7 @@
         </div>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header text-center">Picasso Stacked Barchart</div>
           <div class="card-body">

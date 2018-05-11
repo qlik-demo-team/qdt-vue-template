@@ -5,7 +5,7 @@
             <router-link to="/">
                 <img src="./assets/bannerVuewjs.jpg">
             </router-link>
-            <h1>Vue.js template that uses Qdt-components</h1>
+            <h1>Vue.js ({{ dependencies.vue }}) template that uses Qdt-components ({{ dependencies['qdt-components'] }}) </h1>
          </div>
       </div>
       <router-view/>
@@ -13,8 +13,13 @@
 </template>
 
 <script>
+import { dependencies } from '../package.json';
+
 export default {
   name: 'App',
+  data: () => ({
+    dependencies,
+  }),
 };
 </script>
 
